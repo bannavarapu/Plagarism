@@ -1,0 +1,25 @@
+Sat Aug 26 14:14:49 2017
+Using LCS method
+Match between Bhargav1.txt and Bhargav1.txt is 100.0
+Match between Bhargav1.txt and Bhargav2.txt is 0.0
+Match between Bhargav1.txt and Bhargav3.txt is 0.0
+Match between Bhargav2.txt and Bhargav2.txt is 100.0
+Match between Bhargav2.txt and Bhargav3.txt is 0.0
+Match between Bhargav3.txt and Bhargav3.txt is 100.0
+
+Using bag of words method
+Match between files Bhargav1.txtBhargav1.txt is 99.99999999999997
+Match between files Bhargav1.txtBhargav2.txt is 99.99999999999997
+Match between files Bhargav1.txtBhargav3.txt is 0.0
+Match between files Bhargav2.txtBhargav2.txt is 99.99999999999997
+Match between files Bhargav2.txtBhargav3.txt is 0.0
+Match between files Bhargav3.txtBhargav3.txt is 100.0
+
+Match between files Bhargav1.txtBhargav1.txt using finger printing is 100.0
+Match between files Bhargav1.txtBhargav2.txt using finger printing is 100.0
+Match between files Bhargav1.txtBhargav3.txt using finger printing is 3.187250996015936
+Match between files Bhargav2.txtBhargav2.txt using finger printing is 100.0
+Match between files Bhargav2.txtBhargav3.txt using finger printing is 3.187250996015936
+Match between files Bhargav3.txtBhargav3.txt using finger printing is 100.0
+
+
